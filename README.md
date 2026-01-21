@@ -13,7 +13,7 @@ In this project we can build end to end medical chatbot
 Clone the repository
 
 ```bash
-git clone https://github.com/entbappy/Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS.git
+git clone https://github.com/suvankar-paul/Medical-RAG-chatbot.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
