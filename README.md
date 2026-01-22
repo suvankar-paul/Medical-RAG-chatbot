@@ -1,11 +1,11 @@
 # Medical-RAG-chatbot
-In this project we can build end to end medical chatbot
+In this project we can build end to end medical chatbot with langchain-pinecone-flask
 
 <img width="911" height="772" alt="medical chatbot" src="https://github.com/user-attachments/assets/581f5ec9-ae25-4ea8-8956-9db891e5954d" />
 
 
 
-# Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS
+
 
 # How to run?
 ### STEPS:
